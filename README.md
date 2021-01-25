@@ -3,6 +3,7 @@
 # Assignment-1
 The goal of the assignment is to familiarize you to the process of camera calibration
 and the critical role it plays in using any measurements of the world from images.
+
 This assignment has been prepared by Meher Shashwat Nigam and Saraansh Tandon. Please raise doubts on the appropriate assignment thread on moodle.
 
 # Instructions
